@@ -50,7 +50,7 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="firebase" width="30" height="30"/> 
   </a>&nbsp;
   
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style={{filter: "invert(26%) sepia(82%) saturate(1122%) hue-rotate(85deg) brightness(96%) contrast(105%)"}}> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="firebase" width="30" height="30"/> 
   </a>&nbsp;
  
