@@ -28,6 +28,7 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
   </a>&nbsp;
 
   <br>
+  <br>
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>           </a>&nbsp; 
