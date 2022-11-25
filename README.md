@@ -36,7 +36,5 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
 ### **Connect with me on**:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gulshansongara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulshansongara" height="30" width="30" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/gulsun_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gulsun_404" height="30" width="30" /></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/codesplash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codesplash" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiroxuki0" height="30" width="30" /></a>&nbsp;&nbsp;
 </p>
