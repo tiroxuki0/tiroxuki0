@@ -38,11 +38,11 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
   </a>&nbsp;
 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="firebase" width="50" height="50" style="fill: #026e00"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="fill: #026e00"/> 
   </a>&nbsp;
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="firebase" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="50" height="50"/> 
   </a>&nbsp;
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
