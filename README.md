@@ -50,7 +50,7 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
   </a>&nbsp;
   
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="firebase" width="50" height="50" style="fill: #026e00"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="firebase" width="50" height="50" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%)"/> 
   </a>&nbsp;
  
 </p>
