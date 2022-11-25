@@ -27,14 +27,16 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>&nbsp;
   
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
+ 
 </p>
 
 ---
 
 ### **Connect with me on**:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiroxuki0" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://fb.com/minhhhhuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" height="30" width="40" /></a>&nbsp;&nbsp;
+
+<a href="https://instagram.com/miiiinhhuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hybridoitc" height="30" width="40" /></a>&nbsp;&nbsp;
+
 </p>
