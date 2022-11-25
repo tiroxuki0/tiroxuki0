@@ -45,6 +45,14 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> 
   </a>&nbsp;
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="firebase" width="30" height="30"/> 
+  </a>&nbsp;
+  
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="firebase" width="30" height="30"/> 
+  </a>&nbsp;
  
 </p>
 
