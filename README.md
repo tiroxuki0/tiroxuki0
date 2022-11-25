@@ -43,8 +43,12 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
 
 ### **Connect with me on**:
 
-<a href="https://fb.com/minhhhhuy" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" height="30" width="30" /></a>&nbsp;
+<a href="https://fb.com/minhhhhuy" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" height="30" width="30" />
+</a>&nbsp;
 
-<a href="https://instagram.com/miiiinhhuy" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hybridoitc" height="30" width="30" /></a>&nbsp;
+<a href="https://instagram.com/miiiinhhuy" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hybridoitc" height="30" width="30" />
+</a>&nbsp;
 
 </p>
