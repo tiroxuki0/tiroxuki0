@@ -33,14 +33,14 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
 
 <a href="https://fb.com/minhhhhuy" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="mongodb" width="50" height="50"/> 
-</a>
-
-<a href="https://instagram.com/miiiinhhuy" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com" height="50" width="50" />
-</a>
+</a>&nbsp;
 
 <a href="https://x.com/MienhHuy" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="mongodb" width="50" height="50"/> 
-</a>
+</a>&nbsp;
+
+<a href="https://instagram.com/miiiinhhuy" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com" height="50" width="50" />
+</a>&nbsp;
 
 </p>
