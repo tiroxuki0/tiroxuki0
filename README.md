@@ -13,7 +13,7 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> 
   </a>
 
-  <a style={{ textDecoration: "none" }} href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a style="text-decoration: 'none'" href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="react" width="50" height="50"/> 
   </a>
   
