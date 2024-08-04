@@ -9,7 +9,7 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
 ### **Languages and Tools I Know**:
 
 <p align="left">
-  <a text-decoration="none" href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a decoration="none" href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> 
   </a>
 
