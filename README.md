@@ -9,13 +9,9 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
 ### **Languages and Tools I Know**:
 
 <p align="left">
-  <a decoration="none" href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> 
-  </a>
 
-  <a style="text-decoration: none" href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="react" width="50" height="50"/> 
-  </a>
   
   <a style="text-decoration: none" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
