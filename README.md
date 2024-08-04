@@ -27,9 +27,6 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50" style="fill: #026e00"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="50" height="50"/> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
-
-  <br>
-  <br>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>  
 </p>
 
@@ -42,7 +39,7 @@ Currently, I'm open to **Job opportunities** where I can contribute and enhance 
 </a>
 
 <a href="https://instagram.com/miiiinhhuy" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hybridoitc" height="50" width="50" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com" height="50" width="50" />
 </a>
 
 <a href="https://x.com/MienhHuy" target="_blank" rel="noreferrer">
