@@ -76,7 +76,6 @@
             <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
             <br>Sass / SCSS
         </td>
-        
     </tr>
     <tr>
     <td align="center" width="96">
