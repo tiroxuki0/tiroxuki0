@@ -56,6 +56,10 @@
         </td>
     </tr>
     <tr>
+      </td>
+            <td align="center" width="96">
+            <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div>
+        </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
             <br>Tailwind CSS
@@ -72,12 +76,13 @@
             <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
             <br>Sass / SCSS
         </td>
-        <td align="center" width="96">
+        
+    </tr>
+    <tr>
+    <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
             <br>Figma
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="Redux Toolkit" />
             <br>Redux Toolkit
