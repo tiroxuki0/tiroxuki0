@@ -43,7 +43,7 @@
             <br>TypeScript
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React.js" />
             <br>React.js
         </td>
         <td align="center" width="96">
