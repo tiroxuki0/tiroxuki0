@@ -83,10 +83,6 @@
             <br>Redux Toolkit
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=zustand" width="48" height="48" alt="Zustand" />
-            <br>Zustand
-        </td>
-        <td align="center" width="96">
             <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" height="48" alt="React Query" />
             <br>React Query
         </td>
