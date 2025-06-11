@@ -91,7 +91,7 @@
             <br>React Query
         </td>
         <td align="center" width="200">
-            <img src="https://cdn.simpleicons.org/socketdotio/010101" width="48" height="48" alt="Socket.IO" />
+            <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="48" height="48" alt="Socket.IO" />
             <br>Socket.IO / WebSocket
         </td>
         <td align="center" width="200">
