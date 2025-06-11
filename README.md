@@ -34,67 +34,67 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
     <tr>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
             <br>JavaScript
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
             <br>TypeScript
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React.js" />
             <br>React.js
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
             <br>Next.js
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
             <br>Node.js
         </td>
     </tr>
     <tr>
       </td>
-            <td align="center" width="120">
+            <td align="center" width="200">
             <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div>
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
             <br>Tailwind CSS
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
             <br>Material UI
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="48" height="48" alt="Ant Design" />
             <br>Ant Design
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
             <br>Sass / SCSS
         </td>
     </tr>
     <tr>
-    <td align="center" width="120">
+    <td align="center" width="200">
             <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
             <br>Figma
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="Redux Toolkit" />
             <br>Redux Toolkit
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" height="48" alt="React Query" />
             <br>React Query
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://cdn.simpleicons.org/socketdotio/010101" width="48" height="48" alt="Socket.IO" />
             <br>Socket.IO / WebSocket
         </td>
-        <td align="center" width="120">
+        <td align="center" width="200">
             <img src="https://cdn.simpleicons.org/d3/F9A03C" width="48" height="48" alt="D3.js" />
             <br>D3.js
         </td>
