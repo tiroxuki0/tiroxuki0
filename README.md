@@ -1,4 +1,3 @@
-<img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg"/>
 <h1 align="center">Hi 👋, I'm Vo Minh Huy <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
 <h3 align="center">A passionate Software Developer from Vietnam</h3>
 <img align="right" alt="coding" width="400" src="https://notioly.com/wp-content/uploads/2023/06/256.Exploring-The-Globe.png">
