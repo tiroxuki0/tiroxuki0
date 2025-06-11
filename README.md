@@ -4,15 +4,15 @@
 <img align="right" alt="coding" width="400" src="https://notioly.com/wp-content/uploads/2023/06/256.Exploring-The-Globe.png">
 
 
-🔭 I’m working on E-commerce Platforms, Enterprise Cloud Management, Community Platforms, Cyber Security (EDR), and Admin Management Dashboards.
+- 🔭 I’m  working on **E-commerce Platforms, Enterprise Cloud Management, Community Platforms, Cyber Security (EDR), and Admin Management Dashboards**.
 
-🌱 I work with Next.js, React.js, TypeScript, TailwindCSS, Vite, Node.js, Express.js, Zustand, Redux Toolkit, React Query, Tanstack Table, WebSocket, Framer Motion, Ant Design, Shadcn UI, Material UI, D3.js, Chart.js.
+- 🌱 I’m  work with **Next.js, React.js, TypeScript, TailwindCSS, Vite, Node.js, Express.js, Zustand, Redux Toolkit, React Query, Tanstack Table, WebSocket, Framer Motion, Ant Design, Shadcn UI, Material UI, D3.js, Chart.js**
 
-🛠 I have experience with SEO optimization (SSR/SSG), real-time data (WebSocket, SocketIO), advanced data visualization, role-based access control, workflow automation, and multi-tenant cloud infrastructure.
+- 🛠 I have experience with **SEO optimization (SSR/SSG), real-time data (WebSocket, SocketIO), advanced data visualization, role-based access control, workflow automation, and multi-tenant cloud infrastructure**.
+  
+- 📫 How to reach me **citythree.11798@gmail.com**
 
-📫 How to reach me: citythree.11798@gmail.com
-
-⚡ Fun fact: I’m half extrovert and half introvert :)
+- ⚡ Fun fact **Im half extrovert and half introvert :)**
 
 
 
