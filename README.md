@@ -61,7 +61,7 @@
             <br>Tailwind CSS
         </td>
         <td align="center" width="96">
-            <img src="https://cdn.simpleicons.org/materialui/0081CB" width="48" height="48" alt="Material UI" />
+            <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
             <br>Material UI
         </td>
         <td align="center" width="96">
@@ -79,11 +79,11 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="https://cdn.simpleicons.org/redux/764ABC" width="48" height="48" alt="Redux Toolkit" />
+            <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="Redux Toolkit" />
             <br>Redux Toolkit
         </td>
         <td align="center" width="96">
-            <img src="https://cdn.simpleicons.org/zustand/000000" width="48" height="48" alt="Zustand" />
+            <img src="https://skillicons.dev/icons?i=zustand" width="48" height="48" alt="Zustand" />
             <br>Zustand
         </td>
         <td align="center" width="96">
