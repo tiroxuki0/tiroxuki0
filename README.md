@@ -69,7 +69,7 @@
             <br>Ant Design
         </td>
         <td align="center" width="96">
-            <img src="https://cdn.simpleicons.org/sass/CC6699" width="48" height="48" alt="Sass" />
+            <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
             <br>Sass / SCSS
         </td>
         <td align="center" width="96">
