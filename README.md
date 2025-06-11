@@ -35,15 +35,15 @@
 <table align="center">
     <tr>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
             <br>JavaScript
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
             <br>TypeScript
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
             <br>React.js
         </td>
         <td align="center" width="96">
@@ -57,19 +57,19 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
             <br>Tailwind CSS
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
+            <img src="https://cdn.simpleicons.org/materialui/0081CB" width="48" height="48" alt="Material UI" />
             <br>Material UI
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=antdesign" width="48" height="48" alt="Ant Design" />
+            <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="48" height="48" alt="Ant Design" />
             <br>Ant Design
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+            <img src="https://cdn.simpleicons.org/sass/CC6699" width="48" height="48" alt="Sass" />
             <br>Sass / SCSS
         </td>
         <td align="center" width="96">
@@ -79,26 +79,28 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+            <img src="https://cdn.simpleicons.org/redux/764ABC" width="48" height="48" alt="Redux Toolkit" />
             <br>Redux Toolkit
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=zustand" width="48" height="48" alt="Zustand" />
+            <img src="https://cdn.simpleicons.org/zustand/000000" width="48" height="48" alt="Zustand" />
             <br>Zustand
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=reactquery" width="48" height="48" alt="React Query" />
+            <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" height="48" alt="React Query" />
             <br>React Query
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=socketio" width="48" height="48" alt="Socket.IO" />
-            <br>Socket.IO / Websocket
+            <img src="https://cdn.simpleicons.org/socketdotio/010101" width="48" height="48" alt="Socket.IO" />
+            <br>Socket.IO / WebSocket
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=d3" width="48" height="48" alt="D3.js" />
+            <img src="https://cdn.simpleicons.org/d3/F9A03C" width="48" height="48" alt="D3.js" />
             <br>D3.js
         </td>
     </tr>
 </table>
 <br><br>
 </div>
+
+
